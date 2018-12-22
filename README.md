@@ -1,1 +1,1 @@
-https://github.com/Octopussyzz/motherfuckingwebsite.git
+https://octopussyzz.github.io/motherfuckingwebsite/
