@@ -5,7 +5,7 @@ function popup() {
 	};
 };
 
-setTimeout(popup, 3000);
+setTimeout(popup, 10000);
 
 
 
